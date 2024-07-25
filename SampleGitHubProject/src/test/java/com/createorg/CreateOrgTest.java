@@ -8,6 +8,7 @@ public class CreateOrgTest {
 	public void createorgtest()
 	{
 		System.out.println("<====Execute create organization test===>");
+		System.out.println("<====Execute create organization test===>");
 	}
 
 }
